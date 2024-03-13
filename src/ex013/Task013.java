@@ -1,12 +1,12 @@
 package ex013;
 import java.util.Scanner;
 
-public class Task013 {
+/*public class Task013 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Введите число: ");
         int x = in.nextInt();
-        int result = factorial(x);
+        //чз остаток от деления на 10
         System.out.printf("Произведение введенного числа равно: \n" + (x * result));
         in.close();
     }
@@ -17,5 +17,5 @@ public class Task013 {
         }
         return result;
     }
-}
+}*/
 //перемножение через факториал
