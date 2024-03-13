@@ -38,3 +38,4 @@ public abstract class Fruit {
         this.cost = cost;
     }
 }
+//не готово
