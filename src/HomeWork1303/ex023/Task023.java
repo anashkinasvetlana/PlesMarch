@@ -9,7 +9,7 @@ public class Task023 {
             if (num [i]==null) {
                 break;
             }
-            System.out.println(" i = " +num[i]);
+            System.out.printf(" i = " +num[i]);
         }
         }
     }
